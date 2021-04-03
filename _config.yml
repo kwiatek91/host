@@ -10,3 +10,4 @@ github_username:
 
 # Build settings
 markdown: kramdown
+languages: ["sv", "en", "de", "fr"]
